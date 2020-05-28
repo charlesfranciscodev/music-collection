@@ -1,0 +1,28 @@
+version: "3.7"
+
+services:
+  database:
+    build:
+      context: "./database"
+      dockerfile: Dockerfile
+    ports:
+      - 5432:5432
+    environment:
+      - POSTGRES_USER=admin
+      - POSTGRES_PASSWORD=postgres
+
+  server:
+    build:
+      context: "./server"
+      dockerfile: Dockerfile
+    volumes:
+      - "./server:/usr/src/app"
+    ports:
+      - 8080:8080
+    environment:
+      - NODE_ENV=development
+      - DATABASE_URL=postgres://admin:postgres@database:5432/db_dev
+      - DEBUG=express:*
+      - DEBUG_COLORS=true
+    depends_on:
+      - database

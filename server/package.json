@@ -1,0 +1,19 @@
+{
+  "name": "music-collection-server",
+  "version": "1.0.0",
+  "description": "Music Collection Web Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Charles-Antoine Francisco",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "knex": "^0.21.1",
+    "nodemon": "^2.0.4",
+    "pg": "^8.2.0"
+  }
+}
