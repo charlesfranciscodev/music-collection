@@ -1,6 +1,10 @@
 # Music Collection Web App
 
+This project can be used for technical interview preparation.
+
 Your task is to create the web frontend of a music collection app. Preferably, you should use a frontend framework (Angular, React or Vue). The backend is already done for you (see API documentation below).
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fcharlesfranciscodev%2Fmusic-collection)
 
 ## Docker Commands
 
