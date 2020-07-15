@@ -1,4 +1,4 @@
-# Music Collection Web App
+# Music Collection REST API
 
 This project can be used for technical interview preparation.
 
