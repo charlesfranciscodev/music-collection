@@ -268,21 +268,21 @@ Response
   {
     "id": 1,
     "name": "Algorithms",
-    "musicFileUrl": "https://charlesfranciscodev.github.io/music/electronic/arps/Chad_Crouch_-_01_-_Algorithms.mp3",
+    "musicFileUrl": "https://music-collector.github.io/music/electronic/arps/Chad_Crouch_-_01_-_Algorithms.mp3",
     "genreId": 5,
     "artistId": 1
   },
   {
     "id": 2,
     "name": "Elipsis",
-    "musicFileUrl": "https://charlesfranciscodev.github.io/music/electronic/arps/Chad_Crouch_-_02_-_Elipsis.mp3",
+    "musicFileUrl": "https://music-collector.github.io/music/electronic/arps/Chad_Crouch_-_02_-_Elipsis.mp3",
     "genreId": 5,
     "artistId": 1
   },
   {
     "id": 3,
     "name": "Illustrated Novel",
-    "musicFileUrl": "https://charlesfranciscodev.github.io/music/electronic/arps/Chad_Crouch_-_03_-_Illustrated_Novel.mp3",
+    "musicFileUrl": "https://music-collector.github.io/music/electronic/arps/Chad_Crouch_-_03_-_Illustrated_Novel.mp3",
     "genreId": 5,
     "artistId": 1
   }
@@ -300,7 +300,7 @@ Response
 {
   "id": 1,
   "name": "Algorithms",
-  "musicFileUrl": "https://charlesfranciscodev.github.io/music/electronic/arps/Chad_Crouch_-_01_-_Algorithms.mp3",
+  "musicFileUrl": "https://music-collector.github.io/music/electronic/arps/Chad_Crouch_-_01_-_Algorithms.mp3",
   "genreId": 5,
   "artistId": 1
 }
@@ -321,19 +321,19 @@ Response
   {
     "id": 32,
     "name": "Reunion of the Spaceducks (Kielokaz ID 365)",
-    "musicFileUrl": "https://charlesfranciscodev.github.io/music/jazz/free-ganymed/KieLoKaz_-_01_-_Reunion_of_the_Spaceducks_Kielokaz_ID_365.mp3",
+    "musicFileUrl": "https://music-collector.github.io/music/jazz/free-ganymed/KieLoKaz_-_01_-_Reunion_of_the_Spaceducks_Kielokaz_ID_365.mp3",
     "artist": "KieLoKaz"
   },
   {
     "id": 33,
     "name": "Trip to Ganymed (Kielokaz ID 363)",
-    "musicFileUrl": "https://charlesfranciscodev.github.io/music/jazz/free-ganymed/KieLoKaz_-_02_-_Trip_to_Ganymed_Kielokaz_ID_363.mp3",
+    "musicFileUrl": "https://music-collector.github.io/music/jazz/free-ganymed/KieLoKaz_-_02_-_Trip_to_Ganymed_Kielokaz_ID_363.mp3",
     "artist": "KieLoKaz"
   },
   {
     "id": 34,
     "name": "Wow (Kielokaz ID 359)",
-    "musicFileUrl": "https://charlesfranciscodev.github.io/music/jazz/free-ganymed/KieLoKaz_-_03_-_Wow_Kielokaz_ID_359.mp3",
+    "musicFileUrl": "https://music-collector.github.io/music/jazz/free-ganymed/KieLoKaz_-_03_-_Wow_Kielokaz_ID_359.mp3",
     "artist": "KieLoKaz"
   }
 ]
@@ -426,7 +426,7 @@ Response
     "websiteUrl": "https://www.soundofpicture.com/",
     "genreId": 5,
     "artistId": 1,
-    "coverArtFileUrl": "https://charlesfranciscodev.github.io/music/electronic/arps/Chad_Crouch_-_Arps_-_20190913144052757.jpg",
+    "coverArtFileUrl": "https://music-collector.github.io/music/electronic/arps/Chad_Crouch_-_Arps_-_20190913144052757.jpg",
     "description": "With 'Arps' Portland, Or. composer/producer Chad Crouch has created a collection of warm analog synth tracks with arpeggiated melodies that recall the late 70’s early 80’s golden era of electronic music.  Meditative, undulating, sweeping synth parts weave together in a reflective, melodic reverie.  Touchstones include Air, OMD, The theme song to Stranger Things, and Kraftwerk."
   },
   {
@@ -435,7 +435,7 @@ Response
     "websiteUrl": "https://www.soundofpicture.com/",
     "genreId": 5,
     "artistId": 1,
-    "coverArtFileUrl": "https://charlesfranciscodev.github.io/music/electronic/drifter/Chad_Crouch_-_Drifter_-_20190805125622490.jpg",
+    "coverArtFileUrl": "https://music-collector.github.io/music/electronic/drifter/Chad_Crouch_-_Drifter_-_20190805125622490.jpg",
     "description": "Portland, Or. composer/producer Chad Crouch has been on a bohemian power-ballad streak and 'Drifter' collects the cream of the crop.  The instrumental compositions are mellow, melodic, meandering and multifaceted.  Arrangements feature electric piano, electric bass, drums, synth, vibes, strings and detailed percussion, while melodies veer toward the sunny side of the street. It's a uniquely organic chill-out suite with heart."
   },
   {
@@ -444,7 +444,7 @@ Response
     "websiteUrl": "https://www.soundofpicture.com/",
     "genreId": 5,
     "artistId": 1,
-    "coverArtFileUrl": "https://charlesfranciscodev.github.io/music/electronic/night-tracks/Chad_Crouch_-_Night_Tracks_-_20190622142220691.jpg",
+    "coverArtFileUrl": "https://music-collector.github.io/music/electronic/night-tracks/Chad_Crouch_-_Night_Tracks_-_20190622142220691.jpg",
     "description": null
   }
 ]
@@ -464,13 +464,13 @@ Response
   "websiteUrl": "https://www.soundofpicture.com/",
   "genreId": 5,
   "artistId": 1,
-  "coverArtFileUrl": "https://charlesfranciscodev.github.io/music/electronic/arps/Chad_Crouch_-_Arps_-_20190913144052757.jpg",
+  "coverArtFileUrl": "https://music-collector.github.io/music/electronic/arps/Chad_Crouch_-_Arps_-_20190913144052757.jpg",
   "description": "With 'Arps' Portland, Or. composer/producer Chad Crouch has created a collection of warm analog synth tracks with arpeggiated melodies that recall the late 70’s early 80’s golden era of electronic music.  Meditative, undulating, sweeping synth parts weave together in a reflective, melodic reverie.  Touchstones include Air, OMD, The theme song to Stranger Things, and Kraftwerk.",
   "tracks": [
     {
       "id": 1,
       "name": "Algorithms",
-      "musicFileUrl": "https://charlesfranciscodev.github.io/music/electronic/arps/Chad_Crouch_-_01_-_Algorithms.mp3",
+      "musicFileUrl": "https://music-collector.github.io/music/electronic/arps/Chad_Crouch_-_01_-_Algorithms.mp3",
       "genreId": 5,
       "artistId": 1,
       "order": 1
@@ -478,7 +478,7 @@ Response
     {
       "id": 2,
       "name": "Elipsis",
-      "musicFileUrl": "https://charlesfranciscodev.github.io/music/electronic/arps/Chad_Crouch_-_02_-_Elipsis.mp3",
+      "musicFileUrl": "https://music-collector.github.io/music/electronic/arps/Chad_Crouch_-_02_-_Elipsis.mp3",
       "genreId": 5,
       "artistId": 1,
       "order": 2
@@ -486,7 +486,7 @@ Response
     {
       "id": 3,
       "name": "Illustrated Novel",
-      "musicFileUrl": "https://charlesfranciscodev.github.io/music/electronic/arps/Chad_Crouch_-_03_-_Illustrated_Novel.mp3",
+      "musicFileUrl": "https://music-collector.github.io/music/electronic/arps/Chad_Crouch_-_03_-_Illustrated_Novel.mp3",
       "genreId": 5,
       "artistId": 1,
       "order": 3
